@@ -1,0 +1,56 @@
+.list {list-style-type: none;}
+.link {text-decoration: none;}
+button {cursor: pointer;}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-header {
+border-bottom: 1px solid #E7E9FC
+}
+
+/*======HEDER STYLES===========*/
+.logotype {
+font-family: 'Raleway', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color: #4D5AE5;
+}
+
+.logotype-cpan {
+color: #2E2F42;
+}
+
+.menu-link {
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+color: #4D5AE5;
+}
+/*======HEDER CONTACTS===========*/
+.list-contacts {
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:  #434455;
+}
+    
+/*=======HERO SECTION===========*/
+.section-hero {
+ width: Hug (169px)
+height: Hug (56px)
+top: 428px
+left: 636px
+padding: 16px, 32px, 16px, 32px
+border-radius: 4px
+gap: 10px
+}
