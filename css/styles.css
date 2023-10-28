@@ -70,6 +70,7 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 color: #ffffff;
+text-align: center;
 }
 
 .section-button {
@@ -112,6 +113,7 @@ color: #2E2F42;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2E2F42;
+    text-align: center;
 }
 
 /*=====PAGE Portfolio SECTION=====*/
