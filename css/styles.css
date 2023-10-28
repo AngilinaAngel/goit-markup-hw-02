@@ -50,7 +50,9 @@ letter-spacing: 0.02em;
 color:#434455;
 }
 
-.list-contacts:hover,
+.list-contacts:hover {
+    color: #404bbf;
+}
 .list-contacts:focus {
 color: #404bbf;
 }
