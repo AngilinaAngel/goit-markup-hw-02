@@ -14,6 +14,9 @@ border-bottom: 1px solid #E7E9FC
 }
 
 /*======HEDER STYLES===========*/
+.contacts {
+    font-style: normal;
+}
 .logotype {
 font-family: 'Raleway', sans-serif;
 text-transform: uppercase;
@@ -53,7 +56,7 @@ color:#434455;
 
 .list-contacts:hover,
 .list-contacts:focus {
-    color: #404bbf;
+color: #404bbf;
 }
     
 /*=======HERO SECTION===========*/
@@ -88,7 +91,6 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
-text-align: left;
 color: #2E2F42;
 }
 
@@ -96,7 +98,6 @@ color: #2E2F42;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
     color: #434455;
 }
 
@@ -134,7 +135,6 @@ color: #2E2F42;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
     color: #F4F4FD;
 }
 
