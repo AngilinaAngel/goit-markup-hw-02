@@ -51,10 +51,10 @@ color:#434455;
 }
 
 .list-contacts:hover {
-    background-color:#404bbf;
+    color:#404bbf;
 }
 .list-contacts:focus {
-    background-color:#404bbf;
+    color:#404bbf;
 }
     
 /*=======HERO SECTION===========*/
